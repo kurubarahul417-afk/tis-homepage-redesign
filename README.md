@@ -1,16 +1,63 @@
-# React + Vite
+# TIS Homepage Redesign
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive and animated homepage redesign for **Tula's International School (TIS)**, built as part of a Frontend Developer assignment.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+https://tis-homepage-redesign-ten.vercel.app
 
-## React Compiler
+## 💻 GitHub Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+https://github.com/kurubarahul417-afk/tis-homepage-redesign
 
-## Expanding the Oxlint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- Vite
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+- Vercel
+
+## ✨ Features
+
+- Responsive design for mobile, tablet and desktop
+- Custom cursor
+- Scroll-triggered reveal animations
+- Scroll progress indicator
+- Light/Dark theme switcher
+- Smooth navigation between sections
+- Modern hero section with call-to-action buttons
+- Interactive cards and sections
+- Responsive navigation
+- Admissions call-to-action
+- Clean and modern school website design
+
+## 📱 Responsive Design
+
+The website has been tested on:
+
+- 375px – Mobile
+- 768px – Tablet
+- 1280px+ – Desktop
+
+## 📂 Project Structure
+
+```text
+tis-homepage-redesign/
+│
+├── public/
+├── src/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── README.md
+└── vite.config.js
